@@ -1,0 +1,44 @@
+{
+  "Name": "Broccoli",
+  "Description": "A broccoli resembles a cauliflower, but tastes uniquely delicious.",
+  "Category": "Vegetable",
+  
+  "Edibility": 10,
+  "EdibleIsDrink": false,
+
+  "EdibleBuffs": {
+    	"Farming": 0,
+    	"Fishing": 0,
+    	"Mining": 0,
+    	"Luck": 0,
+    	"Foraging": 0,
+    	"MaxStamina": 0,
+    	"MagnetRadius": 0,
+    	"Speed": 0,
+    	"Defense": 0,
+    	"Attack": 0,
+    	"Duration": 0,
+  },
+  
+  "Price": 180,
+  
+  "IsColored": false,
+  "Recipe": null,
+  
+  "GiftTastes": 
+		{
+		"Love": [ "Leah", "Caroline" ],
+		"Like": [ "Lewis", "Demetrius", "Sebastian" ],
+		"Neutral": [  ],
+		"Dislike": [ "Jas", "Linus"],
+		"Hate": [ "Vincent", "Krobus", "Sam", "Shane" ],	
+		},
+   
+  "ContextTags": 
+        [
+			"category_vegetable",
+		    "color_green",
+		    "dye_medium"			
+        ],
+
+}
