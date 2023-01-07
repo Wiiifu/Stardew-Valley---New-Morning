@@ -24,4 +24,31 @@
 	"SeedPurchaseFrom": "Pierre",
     "SeedPurchasePrice": 80,
 	"SeedSellPrice": 40,
+	
+	"NameLocalization": {
+    // "es": "",
+    // "ko": "",
+    "de": "Brokkoli",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": ""
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  },
+  "DescriptionLocalization": {
+    // "es": "",
+    // "ko": "",
+    "de": "Ein Brokkoli ähnelt einem Blumenkohl, schmeckt aber einzigartig lecker.",
+    // "fr": "",
+    // "hu": "",
+    // "it": "",
+    // "ja": "",
+    // "pt": ""
+    // "ru": "",
+    // "tr": "",
+    // "zh": ""
+  }
 }
