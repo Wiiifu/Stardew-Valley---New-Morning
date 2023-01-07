@@ -1,0 +1,11 @@
+{
+   "Name": "Stardew Valley New Morning",
+   "Author": "Wifu + N300EN",
+   "Version": "1.0.0",
+   "Description": "Here there will be a variety of crops, farmanimals and new opportunities.",
+   "UniqueID": "Neoofu.StardewValleyNewMorning",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets",
+   }
+}
